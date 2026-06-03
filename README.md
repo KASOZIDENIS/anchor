@@ -7,7 +7,7 @@ codebase, no account, no cloud, your data stays on your device.
 > Miss once, it's fine (amber). Miss twice in a row, the app shouts (red). That's
 > the whole idea.
 
-Built from [`anchor-app-requirements.md`](../anchor-app-requirements.md).
+Built from the requirements spec in [`docs/`](docs/): [v1 — implemented](docs/requirements-v1.md) and [v2.1 — planned planner layer](docs/requirements-v2.md).
 
 ---
 
