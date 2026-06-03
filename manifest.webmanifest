@@ -1,0 +1,19 @@
+{
+  "name": "Anchor",
+  "short_name": "Anchor",
+  "description": "Protect one daily habit. Miss once it's fine; miss twice, the app shouts.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0f1b2d",
+  "theme_color": "#0f1b2d",
+  "icons": [
+    {
+      "src": "icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

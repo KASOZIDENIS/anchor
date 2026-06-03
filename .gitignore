@@ -1,0 +1,10 @@
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.log
+
+# Node (none committed — Anchor has zero runtime deps)
+node_modules/
+
+# Local backups exported from the app
+anchor-backup-*.json

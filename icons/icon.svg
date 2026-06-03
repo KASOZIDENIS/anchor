@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" rx="112" fill="#0f1b2d"/>
+  <g fill="none" stroke="#4f93ff" stroke-width="26" stroke-linecap="round" stroke-linejoin="round">
+    <!-- ring -->
+    <circle cx="256" cy="116" r="34"/>
+    <!-- shaft -->
+    <line x1="256" y1="150" x2="256" y2="404"/>
+    <!-- stock (crossbar) -->
+    <line x1="186" y1="198" x2="326" y2="198"/>
+    <!-- flukes -->
+    <path d="M150 300 C150 392 210 412 256 412 C302 412 362 392 362 300"/>
+    <path d="M150 300 L120 322 M150 300 L162 268"/>
+    <path d="M362 300 L392 322 M362 300 L350 268"/>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+{
+  "name": "anchor",
+  "version": "1.0.0",
+  "description": "Anchor — a tiny personal consistency app. Protects one daily habit and makes lapses impossible to ignore.",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "start": "node serve.js",
+    "test": "node --test"
+  }
+}
